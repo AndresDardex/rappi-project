@@ -4,3 +4,10 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
+xgboost
+lightgbm
+shap
+imblearn
+requests 
+tqdm
+catboost
