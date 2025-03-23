@@ -10,4 +10,3 @@ shap
 imblearn
 requests 
 tqdm
-catboost
