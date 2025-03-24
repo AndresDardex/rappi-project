@@ -10,3 +10,6 @@ shap
 imblearn
 requests 
 tqdm
+folium
+streamlit
+streamlit_folium
